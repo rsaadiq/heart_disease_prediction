@@ -1,6 +1,6 @@
 # Heart disease prediction:
 
-![title](3d-illustration-human-body-heart-stock-illustrations_csp41802976.JPG)
+![title](3d-illustration-human-body-heart-stock-illustrations_csp41802976.jpg)
 
 Predicting whether heart disease present or not based on patient's blood pressure, sugar level, cholesterol, age, sex, heart tate etc.
 
